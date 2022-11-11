@@ -11,9 +11,8 @@
 
 ![Profile views](https://page-views.glitch.me/badge?page_id=KIsmoilov.visitor-badge)
 [![Github](https://img.shields.io/github/followers/KIsmoilov?label=Follow&style=social)](https://github.com/KIsmoilov)
-[![wakatime](https://wakatime.com/badge/user/492a4b84-0d0c-4574-ba74-bf969187694c.svg)](https://wakatime.com/@492a4b84-0d0c-4574-ba74-bf969187694c)
 
-<div size='20px'>Hello, I am Khusniddin, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
+<div size='20px'>Hello, I am Khusniddin, a full stack Developer from Uzbekistan. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
  
 </div>
 
@@ -48,24 +47,18 @@
 </div>
 
 <h2 > Connect with me  💻</h2>
-<a href = 'https://www.linkedin.com/in/Khusniddin-bouraiou-512a5015a/'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href = 'https://twitter.com/ned_jwa'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href = 'http://linkedin.com/in/khusniddin-ismoilov-185575157'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href = 'https://twitter.com/Uz_Mnemonist'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href = 'https://www.instagram.com/khusniddin.imm/'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=instagram"/></a>
 <br>
 <br>
   <br>
 
  ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KIsmoilov&theme=redical&hide_border=true&area=true)
-| ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=KIsmoilov&show_icons=true&theme=radical)             | ![KIsmoilov GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIsmoilov&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIsmoilov&langs_count=8&theme=radical&layout=compact) |
+ ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=KIsmoilov&show_icons=true&theme=radical)              ![KIsmoilov GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIsmoilov&theme=radical)                                                                     
+&nbsp;<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIsmoilov&langs_count=8&theme=radical&layout=compact)
 
-
-
-
-
--------
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KIsmoilov&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KIsmoilov&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
 
 
 <!--
