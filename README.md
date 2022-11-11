@@ -12,19 +12,25 @@
 ![Profile views](https://page-views.glitch.me/badge?page_id=KIsmoilov.visitor-badge) 
 [![Github](https://img.shields.io/github/followers/KIsmoilov?label=Follow&style=social)](https://github.com/KIsmoilov)
 
-<div size='20px'>Hello, I am Khusniddin, a full stack Developer from Uzbekistan. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
+<div size='20px'>Hello, I am Khusniddin, a full stack developer from Uzbekistan. I love learning new languages and implementing them in various projects. Currently, I am engrossed in the Front-end development and hoping to learn a lot more!
  
 </div>
 
 <h2 > About Me :man:</h2>
 
-- 🔭 Master's degree in network and distributed systems from university Constantine 2, Algeria
+- 🔭 I’m currently a student at Microverse which is a remote software development school teaches through pair-programming
+- 🎓 I did my Master's degree in Corporate Finance at Golden Gate University in San Francisco, California.
+- 🎓 I got my Bachelor's degree in Banking and Finance from Bangor University in Wales, UK.
 - 💻 I’m currently working on side projects.
-- 🖌 I'm a UI/UX Designer, and I like playing with colors and shapes.
-- ♥  I'm in love with everything that has a relation to Tech and Design.
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new projects.
-- 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities, Open Source and Design.
-- 🖌 My portfolio ...⛏
+- ♥  I'm in love with everything that has a relation to IT and Finance.
+- 😄 Pronouns: "he", "his"
+- ⚡ Fun fact: I switched my career from finance to software develoment. I used to train with mental sports. 
+- 🧠 I participated in the World Memory Chmapionships and TV shows several times and acheived the title of International Master of Memory
+- 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities, Memory techniques.
+- 📫 How to reach me: via [Gmail](husniddin.ismoilov@gmail.com) 
+- 🖌 My portfolio is [here](https://kismoilov.github.io/Portfolio/) 
 
 
 <h2 > Skills 🔥  </h2>
@@ -60,19 +66,3 @@
 &nbsp;<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIsmoilov&langs_count=8&theme=radical&layout=compact)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KIsmoilov&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
-
-
-<!--
-**KIsmoilov/KIsmoilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
