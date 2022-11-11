@@ -28,9 +28,7 @@
 
 
 <h2 > Skills 🔥  </h2>
-<div align="left">
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" />   
+<div align="left">  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="40px" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="40px" />  
@@ -44,6 +42,8 @@
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="40px" height="40px" />
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="40px" height="40px" />
+ <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="40px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="40px" /> 
 </div>
 
 <h2 > Connect with me  💻</h2>
@@ -55,7 +55,8 @@
   <br>
 
  ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KIsmoilov&theme=redical&hide_border=true&area=true)
- ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=KIsmoilov&show_icons=true&theme=radical)              ![KIsmoilov GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIsmoilov&theme=radical)                                                                     
+ &nbsp;<p align="center">![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=KIsmoilov&show_icons=true&theme=radical) 
+ &nbsp;<p align="center">![KIsmoilov GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIsmoilov&theme=radical)                                                                 
 &nbsp;<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIsmoilov&langs_count=8&theme=radical&layout=compact)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KIsmoilov&theme=radical&no-frame=true" alt="mancobasihlongonyane" /></a> </p>
