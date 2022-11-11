@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-![Profile views](https://page-views.glitch.me/badge?page_id=KIsmoilov.visitor-badge)
+![Profile views](https://page-views.glitch.me/badge?page_id=KIsmoilov.visitor-badge) 
 [![Github](https://img.shields.io/github/followers/KIsmoilov?label=Follow&style=social)](https://github.com/KIsmoilov)
 
 <div size='20px'>Hello, I am Khusniddin, a full stack Developer from Uzbekistan. I love learning new languages and implementing them in various projects. Currently engrossed with Frontend and hoping to learn a lot more!:smile:
