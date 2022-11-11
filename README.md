@@ -18,19 +18,18 @@
 
 <h2 > About Me :man:</h2>
 
-- 🔭 I’m currently a student at Microverse which is a remote software development school teaches through pair-programming
+- 🔭 I’m currently a student at Microverse which is a remote software development school that teaches through pair-programming.
 - 🎓 I did my Master's degree in Corporate Finance at Golden Gate University in San Francisco, California.
 - 🎓 I got my Bachelor's degree in Banking and Finance from Bangor University in Wales, UK.
 - 💻 I’m currently working on side projects.
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new projects.
 - ♥  I'm in love with everything that has a relation to IT and Finance.
-- 😄 Pronouns: "he", "his"
+- 😄 Pronouns: "he", "his".
 - ⚡ Fun fact: I switched my career from finance to software develoment. I used to train with mental sports. 
-- 🧠 I participated in the World Memory Chmapionships and TV shows several times and acheived the title of International Master of Memory
+- 🧠 I participated in the World Memory Championships and TV shows several times and acheived the title of International Master of Memory.
 - 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities, Memory techniques.
-- 📫 How to reach me: via [Gmail](husniddin.ismoilov@gmail.com) 
-- 🖌 My portfolio is [here](https://kismoilov.github.io/Portfolio/) 
+- 📫 How to reach me: via [Gmail](husniddin.ismoilov@gmail.com).
+- 🖌 My portfolio is [here](https://kismoilov.github.io/Portfolio/).
 
 
 <h2 > Skills 🔥  </h2>
