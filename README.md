@@ -59,7 +59,6 @@
 <br>
   <br>
 
- ![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KIsmoilov&theme=redical&hide_border=true&area=true)
  &nbsp;<p align="center">![Khusniddin's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=KIsmoilov&show_icons=true&theme=radical) 
  &nbsp;<p align="center">![KIsmoilov GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIsmoilov&theme=radical)                                                                 
 &nbsp;<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIsmoilov&langs_count=8&theme=radical&layout=compact)
