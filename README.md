@@ -54,7 +54,6 @@
 <h2 > Connect with me  💻</h2>
 <a href = 'https://www.linkedin.com/in/khusniddin-ismoilov/'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href = 'https://twitter.com/Uz_Mnemonist'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href = 'https://www.instagram.com/khusniddin.imm/'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=instagram"/></a>
 <br>
 <br>
   <br>
