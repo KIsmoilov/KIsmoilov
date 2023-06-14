@@ -12,7 +12,7 @@
 ![Profile views](https://page-views.glitch.me/badge?page_id=KIsmoilov.visitor-badge) 
 [![Github](https://img.shields.io/github/followers/KIsmoilov?label=Follow&style=social)](https://github.com/KIsmoilov)
 
-<div size='20px'>Hello, I am Khusniddin, a full-stack developer from Uzbekistan. I love learning new languages and implementing them in various projects. Currently, I am engrossed in Full-stack development and hoping to learn a lot more!
+<div size='20px'>Hello, I am Khusniddin, a full-stack developer. I love learning new languages and implementing them in various projects. Currently, I am engrossed in Full-stack development and hoping to learn a lot more!
  
 </div>
 
