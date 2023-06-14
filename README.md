@@ -29,7 +29,7 @@
 - 🧠 I participated in the World Memory Championships and TV shows several times and achieved the title of International Master of Memory.
 - 💬 Talk to me about Problem-solving, JavaScript, Freelancing opportunities and Memory techniques.
 - 📫 How to reach me: via husniddin.ismoilov@gmail.com.
-- 🖌 My portfolio is [here](https://kismoilov.github.io/Portfolio/).
+- 🖌 My portfolio is [here](https://kismoilov.github.io/Khusniddin_portfolio/).
 
 
 <h2 > Skills 🔥  </h2>
