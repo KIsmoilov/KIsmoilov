@@ -18,7 +18,7 @@
 
 <h2 > About Me :man:</h2>
 
-- 🔭 I’m currently a student at Microverse which is a remote software development school that teaches through pair programming.
+- 🔭 I'm a full-stack developer with the knowledge of using Javascript, React, Redux, and Rails gained from Microverse which is a remote software development school that uses real-world projects to teach web development through pair programming.
 - 🎓 I did my Master's degree in Corporate Finance at Golden Gate University in San Francisco, California.
 - 🎓 I got my Bachelor's degree in Banking and Finance from Bangor University in Wales, UK.
 - 💻 I’m currently working on side projects.
